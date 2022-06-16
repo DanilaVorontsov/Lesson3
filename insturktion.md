@@ -14,3 +14,6 @@
 ## Добавим картинку в MarkDown
 это яблоко
 ![Яблоко](simvol-jabloka-2.jpg)
+
+## WEB ссылки
+Текст [Пример текста](http://example.com)
