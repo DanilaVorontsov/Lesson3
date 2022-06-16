@@ -13,4 +13,4 @@
 
 ## Добавим картинку в MarkDown
 это яблоко
-![Яблоко] (simvol-jabloka-2.jpg)
+![Яблоко](simvol-jabloka-2.jpg)
